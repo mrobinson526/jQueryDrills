@@ -1,0 +1,1 @@
+# This project allows us to practice using jQuery to manipulate DOM
